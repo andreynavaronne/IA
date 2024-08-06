@@ -22,4 +22,4 @@ while(sinal < 1):
         sinal = 1                 
                    
 for row in grid:
-    print(row)        
+    print(row)
